@@ -49,3 +49,7 @@ while(1):
 time_elapsed=time.time()-s_time
 print "comgrats you have finished the game"
 print "time takem is"+str(time_elapsed)
+
+'''
+1. Program not working correctly. test. and redo. :<
+'''
